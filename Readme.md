@@ -2,10 +2,12 @@
 
 A classic British cake from the Bake Off judge, Paul Hollywood's lemon drizzle is a simple traybake, made extra special with feather icing
 
- hourglass_flowing_sand: Prep:25 mins 
- Cook:30 mins  Easy
+:hourglass_flowing_sand: Prep:25 mins 
+ Cook: 30 mins  
+ 
+:grinning: Easy
 
-:knife: cuts into 12 slices
+:knife: Cuts into 12 slices
 
  
 ![Cake image](https://images.immediate.co.uk/production/volatile/sites/30/2020/08/lemon-drizzle-slices-ef377c7.jpg?quality=90&webp=true&resize=300,272 )
