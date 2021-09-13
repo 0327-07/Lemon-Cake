@@ -9,6 +9,8 @@ A classic British cake from the Bake Off judge, Paul Hollywood's lemon drizzle i
 
 :knife: Cuts into 12 slices
 
+:star::star::star::star: 115 Ratings
+
  
 ![Cake image](https://images.immediate.co.uk/production/volatile/sites/30/2020/08/lemon-drizzle-slices-ef377c7.jpg?quality=90&webp=true&resize=300,272 )
 Format: ![Alt Text](url) 
